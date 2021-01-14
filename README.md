@@ -2,7 +2,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Applications with Greeting prompt "Hello World" with four main functionalities which, change the color of the prompt text, change the color of the background, change the prompt text to a preset text or a user inputed text.
+Applications with Greeting prompt "Hello World" with four main functionalities which, change the color of the prompt text, change the color of the background, change the prompt text to a preset text or a user inputed text.
 
 <img src=https://github.com/19exceraya1/CodePath-prework/blob/main/HelloWorld%20Recording.gif width=200><br>
 
